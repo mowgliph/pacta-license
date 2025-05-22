@@ -1,5 +1,7 @@
 node_modules/
 dist/
 licencias/
+licencias-generadas/
+example/
 *.lic
 *.pdf
