@@ -1,0 +1,30 @@
+{
+  "name": "pacta-license-generator",
+  "version": "1.0.0",
+  "description": "Generador de licencias para PACTA",
+  "main": "dist/index.js",
+  "bin": {
+    "pacta-license": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "ts-node src/cli.ts"
+  },
+  "keywords": ["license", "generator", "pacta"],
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@types/node": "^22.15.21",
+    "commander": "^14.0.0",
+    "date-fns": "^4.1.0",
+    "pdf-lib": "^1.17.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/uuid": "^10.0.0"
+  }
+}

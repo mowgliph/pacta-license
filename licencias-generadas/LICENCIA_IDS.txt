@@ -1,0 +1,26 @@
+LICENCIA DE USO DE SOFTWARE
+===========================
+
+PACTA – Plataforma de Administración de Contratos y Trazabilidad Automatizada
+
+Esta licencia autoriza el uso del software PACTA, una aplicación de escritorio diseñada para 
+la gestión de contratos y suplementos.
+
+Datos de la Licencia:
+----------------------
+• Número de Licencia: PACTA-927346
+• Tipo de Licencia: Prueba (30 días)
+• Empresa: IDS
+• Contacto: Jelvys Triana Castro
+• Email: jelvys.triana@ids.alinet.cu
+• Fecha de Emisión: 22 de mayo de 2025
+• Fecha de Vencimiento: 21 de junio de 2025
+
+Términos y Condiciones:
+-----------------------
+1. Esta licencia es intransferible y exclusiva para el titular registrado.
+2. La versión de prueba tiene una validez de 30 días.
+3. La versión completa tiene validez de un año.
+4. Cualquier uso no autorizado puede resultar en la terminación de la licencia.
+
+Firma Digital: SURTOlBBQ1RBLTkyNzM0NjoxNzQ3OTQ0
